@@ -1,6 +1,6 @@
 ---
 layout: base
-title: jounal
+title: journal
 permalink: /journal/
 --- 
 <html lang="en">
